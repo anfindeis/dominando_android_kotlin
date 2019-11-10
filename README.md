@@ -1,2 +1,2 @@
 # dominando_android_kotlin
-AMbiente aprendizagem com Kotlin
+Ambiente aprendizagem, seguindo o livro Dominando Android com Kotlin
